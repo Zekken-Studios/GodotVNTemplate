@@ -1,0 +1,27 @@
+{
+	"events": [
+		{
+			"character": "character-1682327211.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The transition has now finished."
+		},
+		{
+			"character": "character-1682327211.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "While the transition was showing text, the old scene changed to a new one."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That is it for this version! Thanks for playing."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1682327154.json",
+		"name": "demo_scene2"
+	}
+}

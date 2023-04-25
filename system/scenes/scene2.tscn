@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://system/template/vn_scene/vn_scene.tscn" type="PackedScene" id=1]
+[ext_resource path="res://assets/texture/external/noraneko_background_pack_1/Sitting_Room.png" type="Texture" id=2]
+
+[node name="Scene2" instance=ExtResource( 1 )]
+timeline_name = "demo_scene2"
+
+[node name="BG" parent="." index="0"]
+texture = ExtResource( 2 )
