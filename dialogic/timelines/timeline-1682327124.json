@@ -1,0 +1,33 @@
+{
+	"events": [
+		{
+			"character": "character-1682327211.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This template was made to help you quickstart your Visual Novel Project."
+		},
+		{
+			"character": "character-1682327211.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Feel free to modify anything you want."
+		},
+		{
+			"character": "character-1682327211.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This is a Dialogue example."
+		},
+		{
+			"character": "character-1682327211.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Now, this is a transition..."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1682327124.json",
+		"name": "demo_scene1"
+	}
+}

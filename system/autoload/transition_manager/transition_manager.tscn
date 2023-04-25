@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://system/autoload/transition_manager/transition_manager.gd" type="Script" id=1]
+
+[node name="TransitionManager" type="CanvasLayer"]
+layer = 5
+script = ExtResource( 1 )
